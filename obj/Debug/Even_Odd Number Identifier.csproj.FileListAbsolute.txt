@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\Even_Odd Number Identifier\Even_Odd Number Identifier\bin\Debug\Even_Odd Number Identifier.exe.config
+C:\Users\DELL\source\repos\Even_Odd Number Identifier\Even_Odd Number Identifier\bin\Debug\Even_Odd Number Identifier.exe
+C:\Users\DELL\source\repos\Even_Odd Number Identifier\Even_Odd Number Identifier\bin\Debug\Even_Odd Number Identifier.pdb
+C:\Users\DELL\source\repos\Even_Odd Number Identifier\Even_Odd Number Identifier\obj\Debug\Even_Odd Number Identifier.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Even_Odd Number Identifier\Even_Odd Number Identifier\obj\Debug\Even_Odd Number Identifier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Even_Odd Number Identifier\Even_Odd Number Identifier\obj\Debug\Even_Odd Number Identifier.exe
+C:\Users\DELL\source\repos\Even_Odd Number Identifier\Even_Odd Number Identifier\obj\Debug\Even_Odd Number Identifier.pdb
